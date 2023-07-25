@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644524535205",
+    "project_id": "cosmocloset-b931c",
+    "storage_bucket": "cosmocloset-b931c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644524535205:android:ca8506b200896c572c0c4c",
+        "android_client_info": {
+          "package_name": "com.cosmos.cosmocloset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644524535205-vjfgmasn5kmtf6bi41j6ddkqrkruphhd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPqnY5zgtuurxj5hqQdJURpglTWkNCLIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644524535205-ngnvijqdellpmqrkmnji56tolnqg4rq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
