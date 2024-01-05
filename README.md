@@ -1,5 +1,4 @@
 # cosmocloset
-![Screenshot_20240105-092105](https://github.com/Jozurf/cosmocloset/assets/114124627/b614bbce-79d7-4ec1-868e-57eec91b9ac2)
 ## Authentication
 https://github.com/Jozurf/cosmocloset/assets/114124627/22603ba1-3ffb-42f3-8265-7a6c9ff692bf
 ## Walkthrough (10mb max file size) 
